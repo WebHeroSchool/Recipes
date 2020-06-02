@@ -1,0 +1,93 @@
+html, body {
+  height: 100%;
+  color: #cca447;
+}
+
+.header {
+  text-align: center;
+  background-image: url(https://lh3.googleusercontent.com/proxy/sIYXFpmccAEZJaaEr9x0-lF8xAhRa9yxCDTztRylf5fl5rI8xFTVnjWsX6frGELeBjKNw_CYcaK6mkF07UGC2fXPV0jh48KlhjdNb_tLJLGYgvZwP_dHWGC0t7E);
+  -webkit-text-stroke: 2px #b6724c;
+  color: #e7942b;
+}
+
+.menu {
+  text-align: center;
+
+}
+
+.menu-item {
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  font-weight: bold;
+  font-size: 20px;
+  background-color: #ecefe3;
+}
+
+.left-menu {
+  float: left;
+  background-color: #ecefe3;
+  width: 80%;
+  text-align: center;
+  padding: 20px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.left-menu-item {
+  margin: 20px;
+}
+
+.left-menu-h1 {
+  text-align: center;
+}
+
+.main-page {
+  display: block;
+  height: 100%;
+  background-color: #fefaf9;
+}
+
+.main-page-left {
+  width: 250px;
+  height: 100%;
+  float: left;
+  padding-left: 50px;
+  padding-right: 10px;
+  background-color: #f1fff0;
+}
+
+.main-page-center {
+  float: center;
+  text-align: center;
+}
+
+h2, h3 {
+  -webkit-text-stroke: 0.5px black;
+}
+
+p {
+  color: black;
+  text-align: left;
+}
+
+.dishes-recipe {}
+
+.dishes-recipe-image {
+  float: left;
+  padding-right: 10px;
+}
+
+.dishes-image {
+  margin-left: 50px;
+  width: 400px;
+  height: 200px;
+}
+
+.dishes-recipe-text {
+  text-align: left;
+}
+
+.table {
+  columns: 1;
+}
